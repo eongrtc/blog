@@ -1,6 +1,6 @@
 @font-face {
     font-family: myFirstFont;
-    src: url(BohlamHalfStripes-ywwmV.ttf);
+    src: url(./BohlamHalfStripes-ywwmV.ttf);
 }
 .nophones {display:none;}
 .visible {display:display;}
